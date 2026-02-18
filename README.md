@@ -154,34 +154,11 @@ Increasing `P_vessel` (analogous to VEGF enhancement) improves healing.
 
 # Visual Results
 
-## Initial Configuration
-
-<p align="center">
-  <img src=""CA Files/Step 29.png" width="450">
-  
-</p>
-
----
-
-## Injury Applied
-
-<p align="center">
-  <img src="assets/injury.png" width="450">
-</p>
-
----
-
-## Healing Progression
-
-<p align="center">
-  <img src="assets/healing.gif" width="600">
-</p>
-
----
 <p align="center">
   <img src="vascular_CA67.gif">
 </p>
 
+---
 ## Simulation Phases
 
 | Phase | Behavior |
@@ -193,3 +170,4 @@ Increasing `P_vessel` (analogous to VEGF enhancement) improves healing.
 
 ---
 
+*Created as a project for IDC621 - Modelling Complex Systems.*
