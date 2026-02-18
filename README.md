@@ -178,6 +178,9 @@ Increasing `P_vessel` (analogous to VEGF enhancement) improves healing.
 </p>
 
 ---
+<p align="center">
+  <img src="vascular_CA67.gif">
+</p>
 
 ## Simulation Phases
 
